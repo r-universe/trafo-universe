@@ -1,0 +1,42 @@
+[
+  {
+    "package": "variables",
+    "oncran": true
+  },
+  {
+    "package": "basefun",
+    "oncran": true
+  },
+  {
+    "package": "mlt",
+    "oncran": true
+  },
+  {
+    "package": "mlt.docreg",
+    "oncran": true
+  },
+  {
+    "package": "tram",
+    "oncran": true
+  },
+  {
+    "package": "tbm",
+    "oncran": true
+  },
+  {
+    "package": "trtf",
+    "oncran": true
+  },
+  {
+    "package": "cotram",
+    "oncran": false
+  },
+  {
+    "package": "tramnet",
+    "oncran": false
+  },
+  {
+    "package": "tramME",
+    "oncran": false
+  }
+]

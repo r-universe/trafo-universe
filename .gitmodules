@@ -1,5 +1,55 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/trafo-universe/universe
 	shallow = true
 	branch = HEAD
+[submodule "variables"]
+	path = variables
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "basefun"]
+	path = basefun
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "mlt"]
+	path = mlt
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "mlt.docreg"]
+	path = mlt.docreg
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "tram"]
+	path = tram
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "tbm"]
+	path = tbm
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "trtf"]
+	path = trtf
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "cotram"]
+	path = cotram
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "tramnet"]
+	path = tramnet
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
+[submodule "tramME"]
+	path = tramME
+	url = https://github.com/r-forge/ctm/
+	shallow = true
+	registered = true
