@@ -37,6 +37,6 @@
   },
   {
     "package": "tramME",
-    "oncran": false
+    "oncran": true
   }
 ]
