@@ -28,7 +28,8 @@
     "oncran": true
   },
   {
-    "package": "cotram"
+    "package": "cotram",
+    "oncran": false
   },
   {
     "package": "tramnet",
