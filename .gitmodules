@@ -5,61 +5,61 @@
 	branch = HEAD
 [submodule "variables"]
 	path = variables
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/variables
 	registered = true
 [submodule "basefun"]
 	path = basefun
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/basefun
 	registered = true
 [submodule "mlt"]
 	path = mlt
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/mlt
 	registered = true
 [submodule "mlt.docreg"]
 	path = mlt.docreg
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/mlt.docreg
 	registered = true
 [submodule "tram"]
 	path = tram
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/tram
 	registered = true
 [submodule "tbm"]
 	path = tbm
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/tbm
 	registered = true
 [submodule "trtf"]
 	path = trtf
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/trtf
 	registered = true
 [submodule "cotram"]
 	path = cotram
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/cotram
 	registered = true
 [submodule "tramnet"]
 	path = tramnet
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/tramnet
 	registered = true
 [submodule "tramME"]
 	path = tramME
-	url = https://github.com/r-forge/ctm/
+	url = https://github.com/r-forge/ctm
 	shallow = true
 	subdir = pkg/tramME
 	registered = true
