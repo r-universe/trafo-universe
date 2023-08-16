@@ -2,14 +2,14 @@
 	path = .registry
 	url = https://github.com/trafo-universe/universe
 	branch = HEAD
-[submodule "variables"]
-	path = variables
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/variables
 [submodule "basefun"]
 	path = basefun
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/basefun
+[submodule "cotram"]
+	path = cotram
+	url = https://github.com/r-forge/ctm
+	subdir = pkg/cotram
 [submodule "mlt"]
 	path = mlt
 	url = https://github.com/r-forge/ctm
@@ -18,27 +18,27 @@
 	path = mlt.docreg
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/mlt.docreg
-[submodule "tram"]
-	path = tram
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/tram
 [submodule "tbm"]
 	path = tbm
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/tbm
-[submodule "trtf"]
-	path = trtf
+[submodule "tram"]
+	path = tram
 	url = https://github.com/r-forge/ctm
-	subdir = pkg/trtf
-[submodule "cotram"]
-	path = cotram
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/cotram
-[submodule "tramnet"]
-	path = tramnet
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/tramnet
+	subdir = pkg/tram
 [submodule "tramME"]
 	path = tramME
 	url = https://github.com/r-forge/ctm
 	subdir = pkg/tramME
+[submodule "tramnet"]
+	path = tramnet
+	url = https://github.com/r-forge/ctm
+	subdir = pkg/tramnet
+[submodule "trtf"]
+	path = trtf
+	url = https://github.com/r-forge/ctm
+	subdir = pkg/trtf
+[submodule "variables"]
+	path = variables
+	url = https://github.com/r-forge/ctm
+	subdir = pkg/variables
