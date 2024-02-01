@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/trafo-universe/universe
+	url = https://github.com/trafo-universe/trafo-universe.r-universe.dev
 	branch = HEAD
 [submodule "basefun"]
 	path = basefun
