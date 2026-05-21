@@ -4,27 +4,27 @@
 	branch = HEAD
 [submodule "basefun"]
 	path = basefun
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/basefun
 [submodule "cotram"]
 	path = cotram
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/cotram
 [submodule "mlt"]
 	path = mlt
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/mlt
 [submodule "mlt.docreg"]
 	path = mlt.docreg
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/mlt.docreg
 [submodule "tbm"]
 	path = tbm
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/tbm
 [submodule "tram"]
 	path = tram
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/tram
 [submodule "tramME"]
 	path = tramME
@@ -36,9 +36,9 @@
 	subdir = pkg/tramnet
 [submodule "trtf"]
 	path = trtf
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/trtf
 [submodule "variables"]
 	path = variables
-	url = https://github.com/r-forge/ctm
+	url = https://codeberg.org/thothorn/tram
 	subdir = pkg/variables
