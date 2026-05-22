@@ -32,8 +32,10 @@
 	subdir = pkg/tramME
 [submodule "tramnet"]
 	path = tramnet
-	url = https://github.com/r-forge/ctm
-	subdir = pkg/tramnet
+	url = https://codeberg.org/LucasKook/tramnet
+[submodule "tramvs"]
+	path = tramvs
+	url = https://codeberg.org/LucasKook/tramvs
 [submodule "trtf"]
 	path = trtf
 	url = https://codeberg.org/thothorn/tram
